@@ -1,0 +1,98 @@
+{
+  "DesignNavbar": {
+    "imgEllipse": "/figma/35-26753-b4550.png",
+    "imgMenuIcon": "/figma/35-26753-fa5fc.svg",
+    "imgMagnifyingGlass": "/figma/35-26753-c2a5b.svg",
+    "imgIcon": "/figma/35-26753-91117.svg",
+    "imgMenuIcon1": "/figma/35-26753-a3d2e.svg"
+  },
+  "DesignNav": {
+    "imgIcon": "/figma/35-26529-7af0a.svg",
+    "imgIcon1": "/figma/35-26529-a3807.svg",
+    "imgIcon2": "/figma/35-26529-7f6d9.svg"
+  },
+  "DesignSmsNav": {
+    "imgIcon": "/figma/35-30650-7af0a.svg",
+    "imgIcon1": "/figma/35-30650-a3807.svg",
+    "imgIcon2": "/figma/35-30650-44c40.svg",
+    "imgIcon3": "/figma/35-30650-37f43.svg"
+  },
+  "DesignHeading": {
+    "imgCalendarDots": "/figma/35-26783-bfb7f.svg",
+    "imgCaretDown": "/figma/35-26783-beee2.svg"
+  },
+  "DesignSummary": {
+    "imgInfo": "/figma/35-26789-43737.svg",
+    "imgTrendUp": "/figma/35-26789-d6c5a.svg"
+  },
+  "DesignChart": {
+    "imgBorder": "/figma/35-26795-c4e29.svg",
+    "imgBorder1": "/figma/35-26795-e4a3b.svg",
+    "imgLine": "/figma/35-26795-9345f.svg",
+    "imgLine1": "/figma/35-26795-7ca11.svg",
+    "imgLine7": "/figma/35-26795-f39f1.svg"
+  },
+  "DesignSmsCards": {
+    "imgArrowUpRight": "/figma/35-30910-9109d.svg",
+    "imgIconCheckCircle": "/figma/35-30910-42de2.svg",
+    "imgGearSix": "/figma/35-30910-614b9.svg",
+    "imgSealCheck": "/figma/35-30910-f2f7d.svg",
+    "imgVector215": "/figma/35-30910-b5ffa.svg"
+  },
+  "DesignBalance": {
+    "imgArrowUpRight": "/figma/35-26922-a6846.svg",
+    "imgIconCheckCircle": "/figma/35-26922-42de2.svg"
+  },
+  "DesignTransactionDetail": {
+    "imgX": "/figma/35-35278-5a593.svg",
+    "imgSealCheck": "/figma/35-35278-68ca8.svg",
+    "imgVector215": "/figma/35-35278-13c2a.svg",
+    "imgExport": "/figma/35-35278-ae937.svg"
+  },
+  "DesignSmsDetail": {
+    "imgX": "/figma/35-43592-5a593.svg",
+    "imgSealCheck": "/figma/35-43592-68ca8.svg",
+    "imgVector215": "/figma/35-43592-7dac1.svg",
+    "imgExport": "/figma/35-43592-ae937.svg"
+  },
+  "DesignProfile": {
+    "imgVector6921": "/figma/35-32918-38fab.svg"
+  },
+  "DesignNotifications": {
+    "imgVector6921": "/figma/35-32944-38fab.svg"
+  },
+  "DesignConfiguration": {
+    "imgVector6921": "/figma/35-33291-38fab.svg"
+  },
+  "DesignTransactionTabs": {},
+  "DesignTableHeading": {
+    "imgMinus": "/figma/35-26975-9e21b.svg"
+  },
+  "DesignFilters": {
+    "imgMagnifyingGlass": "/figma/35-28938-c2a5b.svg",
+    "imgCaretDown": "/figma/35-28938-f14bc.svg",
+    "imgCalendarDots": "/figma/35-28938-42d07.svg"
+  },
+  "DesignPagination": {},
+  "35-26483": {
+    "imgImage121": "/figma/35-26483-0a83e.png"
+  },
+  "35-28923": {
+    "imgDownloadSimple": "/figma/35-28923-dd532.svg"
+  },
+  "35-26958": {
+    "imgArrowUpRight": "/figma/35-26958-0c379.svg"
+  },
+  "35-29672": {
+    "imgX": "/figma/35-29672-8b087.svg"
+  },
+  "35-29674": {
+    "imgSealCheck": "/figma/35-29674-68ca8.svg"
+  },
+  "35-29680": {
+    "imgHourglassLow": "/figma/35-29680-39a77.svg"
+  },
+  "35-30429": {
+    "imgFrame": "/figma/35-30429-c510c.svg"
+  }
+}
